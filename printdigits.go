@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	for i := 0; i <= 9; i++ {
-		fmt.Print(i)
+	for ch := 0; ch <= 9; ch++ {
+		fmt.Print(ch)
 	}
 }
